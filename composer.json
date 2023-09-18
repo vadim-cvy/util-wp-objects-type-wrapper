@@ -1,0 +1,11 @@
+{
+  "name": "cvy/util-wp-objects-type-wrapper",
+  "autoload": {
+    "psr-4": {
+      "Cvy\\WP\\ObjectsTypeWrap\\": "src/"
+    }
+  },
+  "require": {
+    "cvy/util-design-patterns": "^1"
+  }
+}
