@@ -2,7 +2,7 @@
   "name": "cvy/util-wp-objects-type-wrapper",
   "autoload": {
     "psr-4": {
-      "Cvy\\WP\\ObjectsTypeWrap\\": "src/"
+      "Cvy\\WP\\ObjectsTypeWrapper\\": "src/"
     }
   },
   "require": {

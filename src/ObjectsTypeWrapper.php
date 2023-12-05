@@ -5,6 +5,10 @@ use \Cvy\WP\ObjectsQuery\ObjectsQuery;
 
 abstract class ObjectsTypeWrapper extends \Cvy\DesignPatterns\Singleton
 {
+  abstract public function get_label_single() : string;
+
+  abstract public function get_label_multiple() : string;
+
   abstract static public function get_slug() : string;
 
   abstract static public function wrap_one( int $object_id ) : object;
