@@ -1,5 +1,5 @@
 <?php
-namespace Cvy\WP\ObjectsTypeWrap;
+namespace Cvy\WP\ObjectsTypeWrapper;
 
 use \Cvy\WP\ObjectsQuery\ObjectsQuery;
 
